@@ -4,7 +4,7 @@ This is all of the [National Hazard Directory](https://on-trac.co.uk/nhd/) data 
 
 It is a mix of JSON and CSV, and we have yet to convert the CSV to anything better. Some notes on the CSV column meanings are below as they lack headers.
 
-This data is automatically updated weekly.
+This data is automatically updated daily.
 
 # Regions (data/regions.json)
 ```
