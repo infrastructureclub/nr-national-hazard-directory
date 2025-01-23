@@ -1,0 +1,98 @@
+[
+    {
+        "enabled": true,
+        "id": "67210434d867cd31acefa44e",
+        "zonecode": "QT",
+        "zonedescription": "Anglia"
+    },
+    {
+        "enabled": false,
+        "id": "67210434d867cd31acefa454",
+        "zonecode": "QX",
+        "zonedescription": "EXT CVL"
+    },
+    {
+        "enabled": true,
+        "id": "67210434d867cd31acefa455",
+        "zonecode": "QE",
+        "zonedescription": "East Coast"
+    },
+    {
+        "enabled": true,
+        "id": "67210434d867cd31acefa44c",
+        "zonecode": "QM",
+        "zonedescription": "East Midlands"
+    },
+    {
+        "enabled": true,
+        "id": "67210434d867cd31acefa44a",
+        "zonecode": "QK",
+        "zonedescription": "Kent"
+    },
+    {
+        "enabled": false,
+        "id": "67210434d867cd31acefa449",
+        "zonecode": "QG",
+        "zonedescription": "London North East"
+    },
+    {
+        "enabled": true,
+        "id": "67210434d867cd31acefa44d",
+        "zonecode": "QR",
+        "zonedescription": "London North West North"
+    },
+    {
+        "enabled": true,
+        "id": "67210434d867cd31acefa452",
+        "zonecode": "QS",
+        "zonedescription": "London North West South"
+    },
+    {
+        "enabled": true,
+        "id": "67210434d867cd31acefa456",
+        "zonecode": "QF",
+        "zonedescription": "North and East"
+    },
+    {
+        "enabled": true,
+        "id": "67210434d867cd31acefa44b",
+        "zonecode": "QL",
+        "zonedescription": "Scotland"
+    },
+    {
+        "enabled": true,
+        "id": "67210434d867cd31acefa457",
+        "zonecode": "QU",
+        "zonedescription": "Sussex"
+    },
+    {
+        "enabled": false,
+        "id": "67210434d867cd31acefa450",
+        "zonecode": "ST",
+        "zonedescription": "System Test"
+    },
+    {
+        "enabled": true,
+        "id": "67210434d867cd31acefa453",
+        "zonecode": "QC",
+        "zonedescription": "Wales"
+    },
+    {
+        "enabled": true,
+        "id": "67210434d867cd31acefa44f",
+        "zonecode": "QW",
+        "zonedescription": "Wessex"
+    },
+    {
+        "enabled": true,
+        "id": "67210434d867cd31acefa448",
+        "zonecode": "QD",
+        "zonedescription": "Western"
+    },
+    {
+        "enabled": false,
+        "id": "67210434d867cd31acefa451",
+        "zonecode": "QV",
+        "zonedescription": "Western Thames Valley"
+    }
+]
