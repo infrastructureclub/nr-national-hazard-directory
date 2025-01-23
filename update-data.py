@@ -2,10 +2,15 @@
 import os
 import requests
 import json
+import base64
+
+BASE_URL = "https://nhd-prd-api.on-trac.co.uk/nhd/api"
 
 token = os.getenv("TOKEN")
 
-response = requests.get(f"http://mobile.nationalhazards.co.uk/regions?token={token}")
+response = requests.get(
+    f"{BASE_URL}/data/route/all", headers={"nhd-access-points-mobile": token}
+)
 regions = json.loads(response.content)
 
 os.makedirs("data", exist_ok=True)
@@ -20,14 +25,16 @@ with open("data/regions.json", "w") as f:
         )
     )
 
-datasets = ("core_data", "elr_lookup", "freetext", "subzone_code", "subzone_lookup")
-for code, name in regions.items():
+datasets = ("coreData", "elrLookup")
+for region in regions:
+    code = region["zonecode"]
     os.makedirs(f"data/{code}", exist_ok=True)
 
     for dataset in datasets:
-        print(f"Fetching {code}/{dataset}")
+        print(f"Fetching {code} {dataset} data")
         response = requests.get(
-            f"http://mobile.nationalhazards.co.uk/regions/{code}/{dataset}?token={token}"
+            f"{BASE_URL}/external/accessPoint/{dataset}/{code}",
+            headers={"nhd-access-points-mobile": token},
         )
 
         if response.status_code != 200:

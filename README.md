@@ -6,6 +6,8 @@ It is a mix of JSON and CSV, and we have yet to convert the CSV to anything bett
 
 This data is automatically updated daily.
 
+**THE FORMAT OF THE DATA CHANGED IN 2025, THE NOTES BELOW ARE NOW PROBABLY WRONG**
+
 # Regions (data/regions.json)
 ```
 {"QT":"Anglia","QK":"Kent","QG":"London North East","QR":"London North West (North)","QS":"London North West (South)","QM":"East Midlands","QL":"Scotland","QC":"Wales","QW":"Wessex","QD":"Western","QX":"CVL"}```
