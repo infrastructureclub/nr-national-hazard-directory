@@ -438,6 +438,17 @@ Up side behind box. [nest.host.riots]","NZ 62779 21970"
 "20787768","DSN3","26.077","QF","","26.077","2100","","MAP","","464420.0","521764.0","HOWARD DRIVE - MARSKE TS11 7EQ","HFJ1","","","","","","","","","","","20787768","2022-09-28","","NRAIL","","","","","Down Main/Fast","Steps going up onto trackside [belly.shape.crazy]","NZ 64420 21764"
 "20179193","DSN3","26.11","QF","","26.11","0","","MAP","","464689.0","521629.0","Tofts Farm Footpath TS12 1PP","HFJ1","","","","","","","","","","","20179193","2012-05-01","","NRAIL","","","","","All/Multiple Tracks","Walk to Crossing from Howard Drive, Markse.",""
 "20779607","DSN3","27.011","QF","","27.011","3901","","MAP","","463375.0","521336.0","Saltburn West Jcn TS12 1QZ","HFJ1","","","","","","","","","","","20779607","2017-01-17","","NRAIL","","","","","","Bridge 68 Saltburn West access steps at the brick relay room",""
+"120000294","DSN3","27.0176","QF","","27.0176","1100","","MAP","","465378.0","521335.0","The Parkway","HFJ1","","","","","","","","","","","120000294","2025-02-12","","","","","","","Up Main/Fast","this is opposite Saltburn Relay Room on down side so we can access up now without crossing lines.
+PLEASE NOTE PARKING IS TIGHT HERE SO BE MINDFULL OF LOCAL RESIDENTS etc.
+GPS NZ65378 21335
+ELLIPSE ASSET REF: 000019866030
+W3W - saves.suiting.scarves
+
+
+
+
+
+",""
 "20787051","DSN3","27.088","QF","","27.088","3100","","MAP","","466019.0","521385.0","Saltburn Milton Street TS12 1DE","HFJ1","","","","","","","","","","","20787051","2022-03-25","","NRAIL","","","","","Rev Main/Fast","Expermet pedestrian gate and stairs to be installed to allow staff to access track/assets without the need to cross open lines","NZ 66019 21385"
 "20613564","DSN3","27.11","QF","","27.11","1602","","MAP","","466221.0","521393.0","Old P Way Cabin, Saltburn TS12 1DD","HFJ1","","","","","","","","","","","20613564","2012-05-01","","NRAIL","","","","","","Dundas Street West, between Bridge 69 & Saltburn Station. Single gate, 859 lock.",""
 "20771043","DSN3","27.1254","QF","","27.1254","0","","MAP","","466362.0","521404.0","Saltburn Station TS12 1DN","HFJ1","","","","","","","","","","","20771043","2012-05-01","","NRAIL","","","","","All/Multiple Tracks","Station Square, between Dundas Street east & west, Saltburn.",""
@@ -2140,6 +2151,9 @@ Off A695 at Farnley between Riding Mill at Corbridge. Single gate, 859 lock. Acc
 "20179699","SPD4","105.1276","QF","","105.1276","9999","","MAV","","476946.0","397213.0","HAXEY","HFJ4","","","","","","","","","","","20179699","2013-03-25","","NV","","","","","Unknown","Access Point. Level Crossing. RT Document: ALARMS. DN9 2NL.",""
 "20179226","SPD4","106.1738","QF","","106.1738","9999","","MAV","","475143.0","398074.0","LANGHOLME","HFJ4","","","","","","","","","","","20179226","2013-03-25","","NV","","","","","Unknown","Access Point. Level Crossing. RT Document: ALARMS. No parking on occupation road. DN9 2ET.",""
 "20788510","SPW","1.0748","QF","","1.0748","3300","","MAP","","507073.0","429528.0","Walton Street Junction HU3 6LJ","HFJ7","","","","","","","","","","","20788510","2022-11-29","","NRAIL","","","","","Rev Goods","[values.audit.pull]","TA 07073 29528"
+"120000291","SSK1","27.096","QF","","27.096","2100","","MAP","","466033.0","521196.0"," WINDSOR ROAD/BUILDERS YARD","HFJ1","","","","","","","","","","","120000291","2025-02-12","","","","","","","Down Main/Fast","W3W diets.unwraps.educates
+GPS NZ 66033 21196
+ELLIPSE ASSET REF 000019866031",""
 "20638312","SSK1","27.147","QF","","27.147","1300","","MAP","","466051.0","520762.0","Bridge, Marske Mill Lane, Saltburn TS12 1HY","HFJ1","","","","","","","","","ME00755Nw","","20638312","2022-10-13","","NRAIL","","","","","Up Goods","MIMS-O///PH - Record automatically added from OMNICOM",""
 "20776749","SSK1","28.0","QF","","28.0","3300","","MAP","","466034.0","520476.0","Hob Hill, Saltburn TS12 1NA","HFJ1","","","","","","","","","","","20776749","2022-11-14","","NRAIL","","","","","Rev Goods","Access at Hob Hill Crescent. [universal.curvy.dumpy]","NZ 66034 20477"
 "20776785","SSK1","28.0814","QF","","28.0814","3300","","MAP","","466279.0","519787.0","Skelton Bypass TS12 2WB","HFJ1","","","","","","","","","","","20776785","2015-02-13","","NRAIL","","","","","Rev Goods","Bridge 4A, Down Cess.  Pedestrian Access only.",""
