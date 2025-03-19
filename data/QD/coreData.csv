@@ -1371,6 +1371,20 @@ W3Ws ///tile.washroom.shu",""
 "60094531","MLN1","113.0582","QD","","113.0582","1100","","MAP","","366251.0","168609.0","Keynsham Relay Room","HDJ6","","","","","","","","","NP","","60094531","2020-02-20","","NRAIL","","","","","Up Main/Fast","ST662686.  51.415627 -2.486781.  BS31 1NQ.  Comber""s Bridge, Unity Road.  Path to line from side of access gate on North/East side of bridge.",""
 "60094548","MLN1","113.132","QD","","113.132","1100","","MAP","","365629.0","168892.0","Keynsham Station","HDJ6","","","","","","","","","NP","","60094548","2020-02-20","","NRAIL","","","","","Up Main/Fast","ST65689.  51.417996 -2.495327.  BS31 2BT.  Keynsham Station - independent access to platforms.  Vehicle access to Up platform only. ETD Telephone 07 45149.",""
 "60094534","MLN1","114.0844","QD","","114.0844","2100","","MAP","","364679.0","169595.0","Durley Lane","HDJ6","","","","","","","","","NP","","60094534","2020-02-20","","NRAIL","","","","","Down Main/Fast","ST647696.  51.424089 -2.509497.  BS31 2AQ.  Lodge Lane Bridge.  Durley Lane.  Access via steps up the side of the bridge.",""
+"120000593","MLN1","114.1206","QD","","114.1205","2100","","MAP","","364444.0","169809.0","PARK CUTTING DOWN","HDJ6","","","","","","","","","Pedestrian Access Point ","","120000593","2025-03-18","","","","","","","Down Main/Fast","New access point installation at park cutting, giving access to the downside.  To utilise access point park on durley lane and walk down the public right of way until you arrive at park cutting over bridge where the access can be found.
+
+Parking available in Durley lane for 2 vehicles.
+
+Access point is locked with a BR No2 lock (Point lock)
+
+W3Ws///case.secure.ships",""
+"120000594","MLN1","114.1213","QD","","114.1213","1100","","MAP","","364447.0","169824.0","PARK CUTTING UP","HDJ6","","","","","","","","","Pedestrian Access Point ","","120000594","2025-03-18","","","","","","","Up Main/Fast","New access point installation at park cutting, giving access to the upside.  To utilise access point park on durley lane and walk down the public right of way until you arrive at park cutting over bridge where the access can be found.
+
+Parking available in Durley lane for 2 vehicles.
+
+Access point is locked with a BR No2 lock (Point lock)
+
+W3Ws///native.admire.words",""
 "60094546","MLN1","117.0473","QD","","117.0473","2100","","MAP","","361390.0","172420.0","Whitby Road Bridge Barton Hill","HDJ6","","","","","","","","","NP","","60094546","2020-02-20","","NRAIL","","","","","Down Main/Fast","ST614724.  51.449273 -2.557084.  BS4 3QH.  Whitby Road Bridge.  Steps up to line South side of railway. Vehicle access is via East Depot Yard.",""
 "60332894","MLN1","117.0748","QD","","117.0748","2100","","MAP","","361150.0","172495.0","SHOWCASE","HDJ6","","","","","","","","","","","60332894","2022-11-02","","NRAIL","","","","","Down Main/Fast","",""
 "60332895","MLN1","117.1056","QD","","117.1056","2100","","MAP","","360882.0","172577.0","COLE ROAD","HDJ6","","","","","","","","","","","60332895","2022-11-02","","NRAIL","","","","","Down Main/Fast","",""
@@ -1493,8 +1507,14 @@ W3Ws ///keen.silent.sands
 "60290899","MLN1","215.1012","QD","","215.1012","2100","","MAP","","287327.0","69019.0","Langford Over Bridge","HDJ8","","","","","","","","","Key=BR No1 Padlock","","60290899","2020-02-20","","NRAIL","","","","","Down Main/Fast","Gate Access Sloped Walkway To Downside Postcode TQ12 5LA","SX 87253 69023"
 "60295696","MLN1","216.0881","QD","","216.0881","2100","","MAP","","286721.0","67717.0","Maddicombe Bridge","HDJ8","","","","","","","","","Key=BR No1 Padlock","","60295696","2020-02-20","","NRAIL","","","","","Down Main/Fast","Gate Access To Downside Postcode TQ12 5LJ","SX 86709 67685"
 "60312227","MLN1","217.1056","QD","","217.1056","2100","","MAP","","285391.0","66631.0","Dainton Village Underbridge","HDJ8","","","","","","","","","Key=BR No1 Padlock","","60312227","2020-02-20","","NRAIL","","","","","Down Main/Fast","Gate Access Steps up to Access the Downside Postcode TQ12 5TZ","SX 85397 66622"
-"60295807","MLN1","218.044","QD","","218.044","1100","","MAP","","284711.0","65869.0","Wrigwell Bridge","HDJ8","","","","","","","","","Key=BR No1 Padlock","","60295807","2023-05-04","","NRAIL","","","","","Up Main/Fast","Gate Access To Sloped Walkway Access tHe Upside Postcode  TQ!2 5UB","SX 84684 65856"
-"60332943","MLN1","218.044","QD","","218.044","1100","","MAP","","","","WRIGWELL BRIDGE","HDJ8","","","","","","","","","","","60332943","2023-05-31","","NRAIL","","","","","Up Main/Fast","",""
+"60295807","MLN1","218.044","QD","","218.044","1100","","MAP","","284711.0","65869.0","Wrigwell Bridge","HDJ8","","","","","","","","","Key=BR No1 Padlock","","60295807","2025-03-18","","NRAIL","","","","","Up Main/Fast","Gate Access To Sloped Walkway Access tHe Upside Postcode  TQ!2 5UB","SX 84684 65856"
+"60332943","MLN1","218.044","QD","","218.044","1100","","MAP","","284707.7617","65872.2553","WRIGWELL BRIDGE","HDJ8","","","","","","","","","Pedestrian Access Point ","","60332943","2025-03-18","","NRAIL","","","","","Up Main/Fast","Pedestrian access point at Wrigwell Lane giving access to the up main.  Access can be found on Wrigwell Lane.
+
+Parking available on site for 2 vehicles.
+
+Gates open towards the railway and is secured with a BR No2 Point Lock 
+W3Ws ///chef.leathers.pockets
+",""
 "60332944","MLN1","219.0341","QD","","219.0341","1100","","MAP","","283444.0","65236.0","BOW BRIDGE","HDJ8","","","","","","","","","","","60332944","2023-05-31","","NRAIL","","","","","Up Main/Fast","From Newton Abbot take the A381 towards Totnes. As road passes over railway, dirt track on the right leads to pedestrian access to Upside. /// atlas.remit.running",""
 "60333805","MLN1","219.1267","QD","","219.1267","1100","","MAP","","282703.4","64826.9","TALLY HO","HDJ8","","","","","","","","","","","60333805","2024-09-26","","NRAIL","","","","","Up Main/Fast","SX 82660 64813 - From Ipplepen head south on Totnes Road and take a right onto Conniford Lane. Follow the road to the junction, take a right then left towards Ambrook. Follow the road till you get to the railway bridge. Access gate will be on your left with parking available for 1no vehicle in the layby. This access provides access to a FTN, GSM mast and track. What3Words: heartburn.coaster.speeches","SX 82660 64813"
 "60332945","MLN1","220.044","QD","","220.044","2100","","MAP","","281966.6","64436.2","COTTAGES","HDJ8","","","","","","","","","","","60332945","2024-09-27","","NRAIL","","","","","Down Main/Fast","",""
@@ -1800,7 +1820,7 @@ W3Ws ///stale.video.indeed","TQ 11700 79500"
 "60099497","MLN1","170.034","QD","","170.034","1100","","MAV","","313018.0","121246.0","Wellington top end","HDJ8","","","","","","","","","Key=BR No1 Padlock","","60099497","2020-02-20","","NRAIL","","","","","Up Main/Fast","Gated Access Upside Postcode TA21 0BQ","ST 13070 21349"
 "60295829","MLN1","170.0572","QD","","170.0572","2100","","MAV","","312950.0","121183.0","Wellington bottom end","HDJ8","","","","","","","","","Key=BR No1 Padlock","","60295829","2020-02-20","","NRAIL","","","","","Down Main/Fast","Gated Access downside Postcode TA21 8LJ","ST 12870 21095"
 "60332913","MLN1","172.044","QD","","172.044","2100","","MAV","","","","MARLANDS","HDJ8","","","","","","","","","","","60332913","2022-08-10","","NRAIL","","","","","Down Main/Fast","",""
-"60294321","MLN1","172.154","QD","","172.154","2100","","MAV","","310589.0","199126.0","Marlands","HDJ8","","","","","","","","","Key=BR No1 Padlock","","60294321","2020-02-20","","NRAIL","","","","","Down Main/Fast","Level Vehicular Access Downside Postcode TA21 0LP","ST 09913 18397"
+"60294321","MLN1","172.154","QD","","172.154","2100","","MAV","","310589.0","119126.0","Marlands","HDJ8","","","","","","","","","Key=BR No1 Padlock","","60294321","2025-03-18","","NRAIL","","","","","Down Main/Fast","Level Vehicular Access Downside Postcode TA21 0LP","ST 09913 18397"
 "60332914","MLN1","174.143","QD","","174.143","1100","","MAV","","","","BURLESCOMBE","HDJ8","","","","","","","","","","","60332914","2022-08-10","","NRAIL","","","","","Up Main/Fast","",""
 "60111772","MLN1","174.1523","QD","","174.1523","1100","","MAV","","307132.0","116845.0","Burlescombe","HDJ8","","","","","","","","","Key=BR No1 Padlock","","60111772","2020-02-20","","NRAIL","","","","","Up Main/Fast","Gated Vehicular Access Upside Postcode EX16 7JN","ST 07197 16925"
 "60316836","MLN1","177.0704","QD","","177.0704","1100","","MAV","","304474.0","113897.0","Tiverton Parkway Station","HDJ8","","","","","","","","","Key=BR No1 Padlock","","60316836","2022-12-05","","NRAIL","","","","","Up Main/Fast","Gated Level Access Upside Postcode EX16 7EL","ST 04407 13819"
