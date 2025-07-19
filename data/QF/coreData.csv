@@ -102,6 +102,9 @@ Park in park car park off Yarm Road and walk to left towards track?Parking must 
 "20784289","BWC","4.022","QF","","4.022","1100","","MAP","","428770.0","588313.0","Woodhorn Miners Cottages NE63 9YG","HFJ1","","","","","","","","","","","20784289","2022-10-17","","NRAIL","","","","","Up Main/Fast","New access installed","NZ 28770 88313"
 "20179419","BWC","0.1409","QF","","0.1409","0","","MAV","","427509.0","584323.0","Bomersund LC NE22 7AD","HFJ1","","","","","","","","","ME00755Nw","","20179419","2024-10-16","","NRAIL","","","","","All/Multiple Tracks","MIMS-S//DE/ - Access Point. Level Crossing. RT Document: ALARMS. No parking on occupation road. + PDSTRN CRSNG     Ellipse showing as Pedestrian Access <Confirmed as vehicle access> - Amend in Ellipse",""
 "20179843","BWC","1.0902","QF","","1.0902","9999","","MAV","","427684.0","585454.0","Marcheys House NE62 5XL","HFJ1","","","","","","","","","","","20179843","2024-10-16","","NRAIL","","","","","Unknown","Access Point. Level Crossing. Wansbeck Terrace RT Document: ALARMS.",""
+"120000719","BWC","1.0902","QF","","1.0902","2100","","MAV","","427681.0","585440.0","MARCHEYS HOUSE","HFJ1","","","","","","","","","ACCESS POINT","","120000719","2025-07-18","","","","","","","Down Main/Fast","Marchey's House, Brock Lane, West Sleekburn, Choppington, West Sleekburn
+apprehend.interrupt.shackles
+NZ 27682 85440",""
 "20179844","BWC","1.1672","QF","","1.1672","0","","MAV","","427781.0","586148.0","North Seaton SBX, Newbiggin Road NE63 8SY","HFJ1","","","","","","","","","","","20179844","2024-10-16","","NRAIL","","","","","All/Multiple Tracks","MIMS-S//DE/ - Access Point. Level Crossing. RT Document: ALARMS.NOT SEEN ON STAGE 1 VISIT",""
 "20179915","BWC","2.0946","QF","","2.0946","0","","MAV","","427533.0","587052.0","Green Lane LC, Ashington NE63 8BG","HFJ1","","","","","","","","","","","20179915","2024-10-16","","NRAIL","","","","","All/Multiple Tracks","MIMS-S//DE/ - Access Point. Level Crossing. RT Document: ALARMS.NOT SEEN ON STAGE 1 VISIT",""
 "20789729","BWC","2.1716","QF","","2.1716","1100","","MAV","","427279.0","587708.0","Ashington Stn NE63 0RY","HFJ1","","","","","","","","","","","20789729","2023-09-10","","NRAIL","","","","","Up Main/Fast","[oatmeal.shoelaces.tester] Vehicle access gate on the UP side at the disused station platform.","NZ 27279 87708"
@@ -168,6 +171,8 @@ The proposed access gate is located at the side of the solar powered gel applica
 "20179254","DAE1","4.1694","QF","","4.1694","0","","MAP","","427142.0","522319.0","Heighington Footpath DL5 6QG","HFJ1","","","","","","","","","","","20179254","2012-05-01","","NRAIL","","","","","All/Multiple Tracks","Walk from Heighington Station.MIMS-S//DE/ - Access Point. Level Crossing. RT Document: ALARMS. Access on foot only. No vehicular access or parking. POSITION LS/RS",""
 "20787209","DAE1","6.0022","QF","","6.0022","1100","","MAP","","426959.0","524005.0","Newton Aycliffe DL5 6EA","HFJ1","","","","","","","","","","","20787209","2022-05-20","","NRAIL","","","","","Up Main/Fast","Off Bridge 10 School Aycliffe Lane, Locally known as Rileys Steps","NZ 26959 24005"
 "20638249","DAE1","6.0596","QF","","6.0596","1100","","MAP","","426598.0","524361.0","Newton Aycliffe Station DL5 6QZ","HFJ1","","","","","","","","","","","20638249","2012-05-01","","NRAIL","","","","","Up Main/Fast","Off Greenfield Way, Newton Aycliffe",""
+"120000720","DAE1","7.0594","QF","","7.0594","1100","","MAP","","425137.0","525029.0","NEWTON AYCLIFFE","HFJ1","","","","","","","","","ACCESS POINT","","120000720","2025-07-18","","","","","","","Up Main/Fast","slung.cult.years
+NZ 25137 25029",""
 "20179951","DAE1","3.1254","QF","","3.1254","3100","","MAR","","427431.0","520343.0","Whiley Hill AHB LC DL3 0XN","HFJ1","","","","","","","","","","","20179951","2022-09-22","","NRAIL","","","","","Rev Main/Fast","AHB Level Crossing. Coatham Lane, Coatham Mundeville.",""
 "20178946","DAE1","5.0159","QF","","5.0159","0","","MAR","","427120.0","522522.0","Heighington Station LC & Signal Box DL5 6QG","HFJ1","","","","","","","","","","","20178946","2022-09-22","","NRAIL","","","","","All/Multiple Tracks","Heighington Lane, between Heighington and Aycliffe.",""
 "20787208","DAE1","2.0506","QF","","2.0506","1100","","MAV","","428338.0","518250.0","Burtree Lane DL3 0UY","HFJ1","","","","","","","","","","","20787208","2022-05-20","","NRAIL","","","","","Up Main/Fast","","NZ 28338 18250"
@@ -450,6 +455,12 @@ W3W - saves.suiting.scarves
 
 
 
+
+",""
+"120000293","DSN3","27.0176","QF","","27.0176","1100","","MAP","","465378.0","521335.0","Saltburn Relay Room ","HFJ1","","","","","","","","","","","120000293","2025-07-18","","","","","","","Up Main/Fast","this is opposite Saltburn Relay Room on down side so we can access up now without crossing lines.
+PLEASE NOTE PARKING IS TIGHT HERE SO BE MINDFULL OF LOCAL RESIDENTS etc.
+
+W3W - saves.suiting.scarves
 
 ",""
 "20787051","DSN3","27.088","QF","","27.088","3100","","MAP","","466019.0","521385.0","Saltburn Milton Street TS12 1DE","HFJ1","","","","","","","","","","","20787051","2022-03-25","","NRAIL","","","","","Rev Main/Fast","Expermet pedestrian gate and stairs to be installed to allow staff to access track/assets without the need to cross open lines","NZ 66019 21385"
@@ -816,6 +827,8 @@ Pedestrian access only. Stepped access  not suitable for heavy equipment or whee
 "20180127","HUL3","0.0902","QF","","0.0902","2100","","MAP","","460948.0","431848.0","DONCASTER ROAD YO8 9BS","HFJ7","","","","","","","","","","","20180127","2015-02-11","","NRAIL","","","","","Down Main/Fast","MIMS-SX//DE/MM - NOT SEEN ON STAGE1 SITE VISIT - Not seen on SERCO -",""
 "20790410","HUL3","2.0088","QF","","2.0088","1100","","MAP","","458516.0","43138.8","Thorp Gates YO8 4JR_","HFJ7","","","","","","","","","","","20790410","2024-04-23","","","","","","","Up Main/Fast","What3Words   cookery.verve.junior","SE 58516 31388"
 "20781787","HUL3","3.0721","QF","","3.0721","1100","","MAP","","456335.0","431460.0","Hambleton East YO8 9PB","HFJ7","","","","","","","","","","","20781787","2022-09-06","","NRAIL","","","","","Up Main/Fast","Hambleton sewage works. New steps installed",""
+"120001317","HUL3","3.0748","QF","","3.0748","1100","","MAP","","456311.0","431467.0","HAMBLETON EAST JUNCTION","HFJ7","","","","","","","","","ACCESS POINT","","120001317","2025-07-18","","","","","","","Up Main/Fast","waiters.geologist.older
+Ellipse Ref 19909756",""
 "20782549","HUL3","3.1312","QF","","3.1312","2100","","MAP","","455797.0","431502.0","HAMBLETON EAST BR1B YO8 3RD","HFJ7","","","","","","","","","","","20782549","2022-09-06","","NRAIL","","","","","Down Main/Fast","",""
 "20782547","HUL3","4.1011","QF","","4.1011","2100","","MAP","","454464.0","431557.0","Philip Lane LC YO8 9JS","HFJ7","","","","","","","","","","","20782547","2022-09-06","","NRAIL","","","","","Down Main/Fast","","SE 54450 31552"
 "20782548","HUL3","4.1018","QF","","4.1018","1100","","MAP","","454458.0","431550.0","Philip Lane LC YO8 9JS","HFJ7","","","","","","","","","","","20782548","2022-09-06","","NRAIL","","","","","Up Main/Fast","","SE 54450 31552"
@@ -1122,6 +1135,8 @@ Access is from Rydale Park on the down side, through a TP wooden fence which tak
 "20180690","LEN3","73.1078","QF","","73.1078","2100","","MAV","","450184.0","535322.0","Cemetery North Br 198 TS24 9NF","HFJ1","","","","","","","","","","","20180690","2012-05-01","","NRAIL","","","","","Down Main/Fast","Through Horseshoe Tunnel, off West View Road, Hartlepool. Follow dirt track to left of tunnel. Single Special Key.",""
 "20770992","LEN3","74.1606","QF","","74.1606","2100","","MAV","","448332.0","536289.0","Former Hart Station TS24 9RG","HFJ1","","","","","","","","","","","20770992","2022-02-02","","NRAIL","","","","","Down Main/Fast","Access gate on Hartville Road, signposted Hart to Haswell walkway. Single Gate with 859 Lock.",""
 "20770996","LEN3","76.1342","QF","","76.1342","2100","","MAV","","446883.0","538785.0","Former Blackhall Rocks Stn, Br 210 TS27 4AT","HFJ1","","","","","","","","","","","20770996","2012-05-01","","NRAIL","","","","","Down Main/Fast","Off station road, Blackhall Rocks",""
+"120000721","LEN3","78.1041","QF","","78.1041","1100","","MAV","","444899.2","540892.5","COTSFORD LANE","HFJ1","","","","","","","","","ACCESS POINT","","120000721","2025-07-18","","","","","","","Up Main/Fast","hugs.tells.drips
+NZ 44899 40893",""
 "20180691","LEN3","84.0484","QF","","84.0484","2100","","MAV","","442437.0","549248.0","Polka Sidings SR7 7SW","HFJ1","","","","","","","","","ME00755Nw","","20180691","2024-08-20","","NRAIL","","","","","Down Main/Fast","Polka Sidings. Opposite Maureen Terrace, Dawdon",""
 "20180693","LEN3","84.1078","QF","","84.1078","9999","","MAV","","442037.0","549615.0","Seaham Station SR7 0AD","HFJ1","","","","","","","","","","","20180693","2012-05-01","","NRAIL","","","","","Unknown","Access Point. Station. Station Road, Seaham",""
 "20179847","LEN3","85.0528","QF","","85.0528","9999","","MAV","","441339.0","550477.0","Hall Dene SBX [Disused] & CCTV LC SR7 7AH","HFJ1","","","","","","","","","ME00755Nw","","20179847","2022-09-26","","NRAIL","","","","","Unknown","Lord Byrons walk, Seaham",""
