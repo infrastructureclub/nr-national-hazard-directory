@@ -25,7 +25,7 @@
 "QE","DEL","0","-999.0000","999.0000","DELETED RECORDS","","","","false","",""
 "QE","DOL1","2860","156.0616","162.1100","DONCASTER MARSHGATE JN - WAKEFIELD 175M 32CH","HEJ3","","","false","",""
 "QE","DOW","2728","0.0000","17.1540","DONCASTER WRAWBY","HEJ3","","","false","",""
-"QE","DSN1","2884","0.0637","5.0880","DARLINGTON S JN - EAGLESCLIFFE S JN","HEJ1","","","false","",""
+"QE","DSN1","2884","-0.0014","5.0880","DARLINGTON S JN - EAGLESCLIFFE S JN","HEJ1","","","false","",""
 "QE","DUY","0","153.1413","155.0735","DONCASTER UP YARD","HEJ3","","","false","",""
 "QE","DWY","0","154.1142","155.0178","DONCASTER WOODYARD","HEJ3","","","false","",""
 "QE","ECM1","4","0.0000","160.0352","ECML KINGS CROSS - SHAFTHOLME JN","HEJ4","","","false","",""
