@@ -1868,7 +1868,11 @@ TN12 6ER",""
 "110180771","TTH","42.1496","QK","","42.1496","2100","","MAP","","564829.0","128348.0","Craig""s No. 1","HKJ5","","","","","","","","","","","110180771","2022-10-26","","NRAIL","","","","","Down Main/Fast","Public Footpath Crossing Type FPS",""
 "110180729","TTH","43.077","QK","","43.077","1100","","MAP","","565442.0","127644.0","Starvenden","HKJ5","","","","","","","","","","","110180729","2022-10-26","","NRAIL","","","","","Up Main/Fast","Public Footpath Crossing Type FPS",""
 "110180784","TTH","43.077","QK","","43.077","2100","","MAP","","565442.0","127644.0","Starvenden","HKJ5","","","","","","","","","","","110180784","2022-10-26","","NRAIL","","","","","Down Main/Fast","Public Footpath Crossing Type FPS",""
-"70260194","TTH","43.1452","QK","","43.1452","2100","","MAP","","565867.0","127182.0","Stonegate Car park","HKJ5","","","","","","","","","","","70260194","2008-09-08","","BBRM","","","","","Down Main/Fast","Risk Rating 3, Hazard Rating 2,Score 6",""
+"70260194","TTH","43.1452","QK","","43.1452","2100","","MAP","","565867.0","127182.0","Stonegate Car park","HKJ5","","","","","","","","","","","70260194","2026-10-02","","BBRM","","","","","Down Main/Fast","W3W: ///soggy.skippers.skews 
+
+Historic flood site - sandbags in place to protect from track flooding. Sandbags should be moved to the side if vehicle access is required and returned when all vehicles have egressed the area.
+
+Risk Rating 3, Hazard Rating 2,Score 6",""
 "110180713","TTH","44.0836","QK","","44.0836","1100","","MAP","","566734.0","126616.0","Bearhurst","HKJ5","","","","","","","","","","","110180713","2022-10-26","","NRAIL","","","","","Up Main/Fast","Public Bridleway Crossing Type FPG",""
 "110180768","TTH","44.0836","QK","","44.0836","2100","","MAP","","566734.0","126616.0","Bearhurst","HKJ5","","","","","","","","","","","110180768","2022-10-26","","NRAIL","","","","","Down Main/Fast","Public Bridleway Crossing Type FPG",""
 "110180723","TTH","45.011","QK","","45.011","1100","","MAP","","567665.0","126500.0","Millards","HKJ5","","","","","","","","","","","110180723","2022-10-26","","NRAIL","","","","","Up Main/Fast","Public Footpath Crossing Type FPS",""
@@ -2404,7 +2408,9 @@ IMPORTANT - ‘Access is via private property and must not be used unless agreed
 "110179303","VIR","9.1122","QK","","9.1119","2200","","MAV","","538894.0","169668.0","Shortlands RRAP - Downs Hill","HKJ5","","","","","","","","","","","110179303","2026-08-21","","NRAIL","","","","","Down Slow","AUTHORISED ACCESS POINT  -  VEHICLE
 What3Words - ///loves.needed.asserts
 ",""
-"110142427","VIR","12.1386","QK","","12.1386","2100","","MAV","","543771.0","168796.0","Goshill Road","HKJ5","","","","","","","","","","","110142427","2022-04-26","","NRAIL","","","","","Down Main/Fast","Score 6, BRS 4082",""
+"110142427","VIR","12.1386","QK","","12.1386","2200","","MAV","","543771.0","168796.0","BICKLEY/ ST MARY CRAY GOSSHILL ROAD","HKJ5","","","","","","","","","","","110142427","2026-10-02","","NRAIL","","","","","Down Slow","W3W: into.shout.comet
+
+Score 6, BRS 4082",""
 "70208826","VIR","12.1402","QK","","12.1402","2200","","MAV","","543628.0","168835.0","Bickley/St Mary Cray-Gosshill Rd near Signal VS208","HKJ5","","","","","","","","","","","70208826","2008-09-08","","BBRM","","","","","Down Slow","Risk Rating 6, Hazard Rating 2,Score 12",""
 "110146987","VIR","16.0241","QK","","16.0241","9999","","MAV","","548880.0","168171.0","KEVINGTOWN SUBSTATION","HKJ5","","","","","","","","","","","110146987","2022-08-05","","NRAIL","","","","","Unknown","Address:Sheepcote Lane, Kevingtown:BR5 4ET      Details:Network Rail gate, off Sheepcote Lane, @ 16m11c then up to site        TQ489682",""
 "70207544","VIR","17.1148","QK","","17.1148","1100","","MAV","","551260.0","168396.0","Swanley/Farningham Rd","HKJ5","","","","","","","","","","","70207544","2008-09-08","","BBRM","","","","","Up Main/Fast","Risk Rating 10, Hazard Rating 2,Score 20, 56 Steps Down",""
